@@ -9,7 +9,6 @@ A aplicação é capaz de:
 - Converter texto em áudio (Text-to-Speech);
 - Converter fala em texto (Speech-to-Text);
 - Interpretar comandos de voz;
-- Realizar pesquisas na Wikipedia;
 - Abrir o YouTube automaticamente;
 - Localizar farmácias próximas utilizando o Google Maps.
  
