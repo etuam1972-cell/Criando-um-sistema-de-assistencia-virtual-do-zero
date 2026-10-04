@@ -49,18 +49,6 @@ Você disse: abra o youtube
  
 ---
  
-### ✅ Pesquisa na Wikipedia
- 
-Comandos:
- 
-```
-Pesquise inteligência artificial
-```
- 
-A assistente realiza uma busca na Wikipedia e retorna um resumo do assunto.
- 
----
- 
 ### ✅ Abrir YouTube
  
 Comandos:
@@ -95,32 +83,7 @@ A aplicação abre o Google Maps com a pesquisa por farmácias próximas.
 - WebBrowser
  
 ---
- 
-## 📂 Estrutura do Projeto
- 
-```
-assistente-virtual/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-│
-├── voz/
-│ ├── speech_to_text.py
-│ └── text_to_speech.py
-│
-├── comandos/
-│ ├── wikipedia_search.py
-│ ├── youtube.py
-│ └── farmacia.py
-│
-└── utils/
-└── processador.py
-```
- 
----
- 
-## ⚙️ Instalação
+### ⚙️ Instalação
  
 ### 1. Clone o repositório
  
@@ -173,13 +136,7 @@ python main.py
 ```
 Abra o YouTube
 ```
- 
-### Pesquisar na Wikipedia
- 
-```
-Pesquise Nikola Tesla
-```
- 
+
 ### Procurar Farmácia
  
 ```
@@ -219,4 +176,4 @@ Projeto desenvolvido para fins acadêmicos e de aprendizado em Processamento de 
 - Pyttsx3
 - Wikipedia API
 - Python Documentation
-Mostrar mais linhas
+
